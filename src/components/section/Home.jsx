@@ -25,7 +25,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="#contact"
+              href="https://www.instagram.com/ecahunnie_"
               className="border border-amber-200 text-amber-200 py-3 px-6 rounded font-medium transition-all duration-200 
              hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10"
             >
